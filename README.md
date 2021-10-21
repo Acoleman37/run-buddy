@@ -8,7 +8,7 @@ Awebsite that offers fitness training services.
 *CSS
 
 ## Website
-https://github.com/Acoleman37/run-buddy/
+https://acoleman37.github.io/run-buddy/
 
 ##
 Made with ❤️ by Alec D. Coleman
