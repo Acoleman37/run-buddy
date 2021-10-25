@@ -439,4 +439,33 @@ section {
       /* this will be applied on any screen smaller than 575px */
       font-size: 100px;
     }
+
+    .hero-form button {
+        width: 100%;
+    }
+    
+    .section-title {
+        width: 95%;
+    }
+    
+    .intro p {
+        width: 100%;
+    }
+    
+    .trainer {
+        flex: 0 100%;
+    }
+    
+    .contact-info {
+        text-align: center;
+    }
+    
+    .contact-info > * {
+        flex: 0 100%;
+    }
+
+    .contact-form {
+        order: 3;
+    }
+
   }
